@@ -1,6 +1,9 @@
 /********************************************************************
 * File: CST116-Ch6-Debugging.cpp
 *
+* Trevor Bouchillon
+* Chap 6 Debugging
+*
 * General Instructions: Complete each step before proceeding to the
 * next.
 *
@@ -51,8 +54,7 @@ int main()
 
     // Breakpoint 1
     // Put a breakpoint on the following line
-    celcius = 5 / 9 * fahrenheit - 32;
-
+    celcius = (float(5) / float(9)) * (fahrenheit - 32);
     cout << fahrenheit << " degrees F = "
         << celcius << " degrees C" << endl;
 
