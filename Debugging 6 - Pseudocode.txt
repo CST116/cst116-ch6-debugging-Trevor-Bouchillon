@@ -1,0 +1,8 @@
+Set value of variable fahrenheit to 0
+set value of variable celcius to 0
+
+print out "Enter temperature in Fahrenheit
+Intake value for variable fahrenheit
+
+Define variable celcius by dividing 5 by 9 then multipling by variable fahrenheit minus 32
+print out variable fahrenheit, "degrees F =", variable celcius, " degrees C"
