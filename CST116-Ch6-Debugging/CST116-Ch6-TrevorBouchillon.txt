@@ -1,0 +1,6 @@
+Enter temperature in Fahrenheit: 212
+212 degrees F = 100 degrees C
+
+C:\Users\lacro\source\repos\cst116-ch6-debugging-DaBoochillin\CST116-Ch6-Debugging\x64\Debug\CST116-Ch6-Debugging.exe (process 9980) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

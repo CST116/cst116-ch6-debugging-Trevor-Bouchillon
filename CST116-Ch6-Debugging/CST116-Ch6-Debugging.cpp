@@ -16,6 +16,9 @@
 * 5) Verify that the value you entered is stored correctly.
 * 6) Step over the conversion calculation. What is the value
 *    in Celsius? Is that the correct value? No.
+* ***********************************************************************************
+* 0
+*  *******************************************************************************
 * 7) Remember your order of precedence. Put parentheses around
 *    Fahrenheit - 32. This needs to be done before the multiplication.
 * 8) Stop debugging and recompile.
